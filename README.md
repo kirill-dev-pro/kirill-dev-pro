@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-dev-pro)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on (Skechy)[https://skechy.web.app/]
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on web project
+- 🤔 I’m looking for help with better practices
+- 💬 Ask me about best practises
+- 📫 How to reach me: @Crypto_mate
+- ⚡ Fun fact: ...
