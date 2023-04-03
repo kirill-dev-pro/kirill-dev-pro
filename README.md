@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Skechy](https://skechy.web.app/)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on web project
-- 🤔 I’m looking for help with better practices
-- 💬 Ask me about best practises
-- 📫 How to reach me: @Crypto_mate
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ai project
+- 💬 Ask me about why react sucks
+- 📫 How to reach me: [Telegram](t.me/Crypto_mate) [LinkdedIN](https://www.linkedin.com/in/zmeuon/)
