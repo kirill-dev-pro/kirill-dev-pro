@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [PR-Explainer-Bot](https://pr-explainer-bot.web.app/)
-- My previous projects: [Skechy](https://skechy.web.app/) | [GPT-Bot](https://gpt-bot-73f5b.web.app/)
+- My previous projects: [Skechy](https://skechy.web.app/) | [GPT-Bot](https://gpt-bot-73f5b.web.app/) | [Piedata.ai](https://piedata.ai/)
 - 👯 I’m looking to collaborate on AI project
 - 💬 Ask me about why react sucks
 - 📫 How to reach me: [Telegram](https://t.me/Crypto_mate) [LinkdedIN](https://www.linkedin.com/in/zmeuon/)
