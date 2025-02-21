@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 💬 Ask me why react sucks
-- 📫 How to reach me: [Telegram](https://t.me/Crypto_mate) [LinkdedIN](https://www.linkedin.com/in/zmeuon/)
